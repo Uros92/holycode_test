@@ -1,5 +1,6 @@
 # About application
 - Application for fetching and merging data from Youtube and Wikipedia
+- Youtube results are cached
  
 ## Technologies
 - Lumen v.5.8

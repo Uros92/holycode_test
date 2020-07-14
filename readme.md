@@ -19,5 +19,5 @@
 - http://localhost:8000/countries?limit=1&offset=4
 
 
-##### Test api endpoint command (test for 200 status code and json structure) (endpoint: http://localhost:8000/countries)
+##### Test api endpoint console command (test for 200 status code and json structure) (endpoint: http://localhost:8000/countries)
 - vendor/bin/phpunit --filter=testApi
